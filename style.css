@@ -93,16 +93,19 @@ h2 {
   font-size: 1.1rem;
   text-shadow: 2px 2px 6px var(--shadow-color);
 }
-/* --------bouton télécharger-------- */
-.primary-button {
+ /*----- les 2 call to ation -----*/
+.cta-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
   margin-top: 4.5rem;
   margin-bottom: 30px;
 }
-
-.primary-button a {
-  height: 3.75rem;
-  width: 12.5px;
+/* --------bouton télécharger-------- */
+.primary-button  {
+  height: 2rem;
+  width: 10rem;
   background-color: var(--second-color);
   border: 2px solid var(--text-color);
   border-radius: 8px;
@@ -114,14 +117,11 @@ h2 {
 }
 
 /* --------bouton réduction-------- */
-.secondary-button {
-  text-align: center;
-  margin-bottom: 40px;
-}
 
-.secondary-button a {
-  height: 60px;
-  width: 9.375rem;
+
+.secondary-button  {
+  height: 2rem;
+  width: 8rem;
   background-color: var(--second-color);
   border: 2px solid var(--text-color);
   border-radius: 8px;
