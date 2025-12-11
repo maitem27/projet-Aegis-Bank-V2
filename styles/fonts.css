@@ -10,12 +10,12 @@
 
 
 @font-face {
-  font-family: "Sunny Spells Basic";
+  font-family: "Sunny Spells Basic", serif;
   src: url(../assets/fonts/SunnySpellsBasicRegular-Yz1Wv.ttf);
 }
 
 @font-face {
-  font-family: "Sketch Checkin";
+  font-family: "Sketch Checkin", serif;
   src: url(../assets/fonts/SketchCheckinDemoVersion-R9LJW.otf);
 }
 
