@@ -1,6 +1,11 @@
 :root {
+    /* -----type de font----- */
     --main-font: 'Sunny Spells Basic';
     --title-font: 'Sketch Checkin';
+    /* ----taille de font---- */
+    --title-font-size: 2.1rem;
+    --subtitle-font-size: 1.1rem;
+    --btn-font-size: 1rem;
 }
 
 
