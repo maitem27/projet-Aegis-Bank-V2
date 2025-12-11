@@ -66,10 +66,11 @@ p {
 .header-btn {
   height: var( --spacing-sm);
   border: 2px solid var(--main-color);
-  border-radius: 0.5rem;
+  border-radius: 8px;
   background-color: var(--btn-color);
   color: var(--text-color);
   margin: var( --spacing-xsm);
+  font-size: var(--btn-font-size);
   text-align: center;
   display: inline-flex;
   align-items: center;
