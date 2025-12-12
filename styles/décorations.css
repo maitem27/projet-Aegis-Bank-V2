@@ -1,7 +1,8 @@
 :root {
-    /* ---border radius--- */
+    /* ---arrondi sur les boutons--- */
     --border-radius :8px;
 
-    /* ----shadow---- */
+    /* ----ombre des boutons---- */
     --box-shadow: 4px 4px 6px 4px;
+
 }
