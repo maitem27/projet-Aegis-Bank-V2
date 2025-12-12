@@ -1,0 +1,7 @@
+:root {
+    /* ---border radius--- */
+    --border-radius :8px;
+
+    /* ----shadow---- */
+    --box-shadow: 4px 4px 6px 4px;
+}
